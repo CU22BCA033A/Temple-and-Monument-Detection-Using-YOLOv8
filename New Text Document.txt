@@ -1,0 +1,15 @@
+path: D:/YOLO Project
+train: images/train
+val: images/train  
+
+names:
+  0: Gopuram
+  1: Mandapams
+  2: caves
+  3: fort
+  4: mandapa
+  5: pillar
+  6: sculpture
+  7: statue
+  8: temple
+  9: temples
